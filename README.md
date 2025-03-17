@@ -18,6 +18,6 @@ Python: 3.7.13
 Package installed: [Conda packages](conda_packages.txt)  
 
 ## Configuration
-Once the MMdetection framework installed, use (Config.py) as the configuration file.
+Once the MMdetection framework installed, use [Config](Config.py) as the configuration file.
 
 
