@@ -9,3 +9,15 @@ The MacqD project provides three trained models, each developed using different 
 [Download Trained MacqD Models](https://www.dropbox.com/scl/fo/8pcy7ey26ocynd4isxyhd/ALRQm1qGBRh-TMW0ouxo5GY?rlkey=lxwqoso39tcpsdz91n41cjbqy&st=qq8u8vc9&dl=0)
 
 The MacqD models were developed using the [MMDetection](https://github.com/open-mmlab/mmdetection.git) framework. For detailed installation instructions, refer to the [MMDetection documentation](https://mmdetection.readthedocs.io/en/latest/get_started.html).
+
+## Enviroment
+Machine: Ubuntu 22.04.3 LTS (Jammy) - Kernel 6.5.0-15-generic - x86_64
+GPU: NVIDIA GeForce GTX 1080 Ti
+CUDA: version 11.3
+Python: 3.7.13
+Package installed: (conda_packages.txt)
+
+## Configuration
+Once the MMdetection framework installed, use (Config.py) as the configuration file.
+
+
