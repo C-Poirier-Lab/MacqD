@@ -1,4 +1,4 @@
-# packages in environment at /home/campus.ncl.ac.uk/b6029647/miniconda3/envs/detection:
+# packages in environment at /home/envs/detection:
 #
 # Name                    Version                   Build  Channel
 _libgcc_mutex             0.1                        main  
