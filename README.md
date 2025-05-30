@@ -1,5 +1,5 @@
 # The MacqD deep-learning-based model for automatic detection of socially housed laboratory macaques
-MacqD is a modified Mask R-CNN model that incorporates a SWIN transformer backbone for enhanced attention-based feature extraction. It robustly detects macaques in their home-cage under challenging scenarios, including occlusions, glass reflections, and overexposure to light. Paper: [The MacqD Deep Learning-based Model for Automatic Detection of Socially Housed Laboratory Macaques]([https://www.biorxiv.org/content/10.1101/2024.12.23.629644v3](https://www.nature.com/articles/s41598-025-95180-x])
+MacqD is a modified Mask R-CNN model that incorporates a SWIN transformer backbone for enhanced attention-based feature extraction. It robustly detects macaques in their home-cage under challenging scenarios, including occlusions, glass reflections, and overexposure to light. Paper: [The MacqD Deep Learning-based Model for Automatic Detection of Socially Housed Laboratory Macaques](https://www.biorxiv.org/content/10.1101/2024.12.23.629644v3](https://www.nature.com/articles/s41598-025-95180-x)
 
 ## Available Models
 The MacqD project provides three trained models, each developed using different datasets or training strategies.
